@@ -11,6 +11,11 @@ This is a curated list of developer products that I think are interesting, usefu
 - [Evervault](#evervault)
 - [Vercel](#vercel)
 - [Mux](#mux)
+- [Increase](#increase)
+- [Mapbox](#Mapbox)
+- [Upstash](#upstash)
+- [Planetscale](#planetscale)
+- [OpenAI](#openai)
 
 ## WorkOS
 - Site: https://workos.com
@@ -51,3 +56,23 @@ This is a curated list of developer products that I think are interesting, usefu
 ## Mux
 - Site: https://www.mux.com
 - Docs: https://docs.mux.com
+
+## Increase
+- Site: https://increase.com
+- Docs: https://increase.com/documentation
+
+## Mapbox
+- Site: https://www.mapbox.com
+- Docs: https://docs.mapbox.com
+
+## Upstash
+- Site: https://upstash.com
+- Docs: https://docs.upstash.com/redis
+
+## Planetscale
+- Site: https://planetscale.com
+- Docs: https://planetscale.com/docs
+
+## OpenAI
+- Site: https://openai.com
+- Docs: https://platform.openai.com/docs
