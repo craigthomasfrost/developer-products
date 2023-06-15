@@ -18,6 +18,7 @@ This is a curated list of developer products that I think are interesting, usefu
 - [OpenAI](#openai)
 - [Resend](#resend)
 - [Raycast](#Raycast)
+- [MessageBird](#messagebird)
 
 ## WorkOS
 - Site: https://workos.com
@@ -86,3 +87,7 @@ This is a curated list of developer products that I think are interesting, usefu
 ## Raycast
 - Site: https://www.raycast.com
 - Docs: https://developers.raycast.com
+
+## MessageBird
+- Site: https://messagebird.com/
+- Docs: https://messagebird.com/docs
