@@ -17,6 +17,7 @@ This is a curated list of developer products that I think are interesting, usefu
 - [Planetscale](#planetscale)
 - [OpenAI](#openai)
 - [Resend](#resend)
+- [Raycast](#Raycast)
 
 ## WorkOS
 - Site: https://workos.com
@@ -81,3 +82,7 @@ This is a curated list of developer products that I think are interesting, usefu
 ## Resend
 - Site: https://resend.com
 - Docs: https://resend.com/docs/introduction
+
+## Raycast
+- Site: https://www.raycast.com
+- Docs: https://developers.raycast.com
