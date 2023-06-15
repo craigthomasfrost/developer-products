@@ -16,6 +16,7 @@ This is a curated list of developer products that I think are interesting, usefu
 - [Upstash](#upstash)
 - [Planetscale](#planetscale)
 - [OpenAI](#openai)
+- [Resend](#resend)
 
 ## WorkOS
 - Site: https://workos.com
@@ -76,3 +77,7 @@ This is a curated list of developer products that I think are interesting, usefu
 ## OpenAI
 - Site: https://openai.com
 - Docs: https://platform.openai.com/docs
+
+## Resend
+- Site: https://resend.com
+- Docs: https://resend.com/docs/introduction
