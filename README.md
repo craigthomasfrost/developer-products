@@ -3,6 +3,7 @@ This is a curated list of developer products that I think are interesting, usefu
 
 - [WorkOS](#workos)
 - [Liveblocks](#liveblocks)
+- [Stripe](#stripe)
 
 ## WorkOS
 - Site: https://workos.com
@@ -11,3 +12,7 @@ This is a curated list of developer products that I think are interesting, usefu
 ## Liveblocks
 - Site: https://liveblocks.io
 - Docs: https://liveblocks.io/docs
+
+## Stripe
+- Site: https://stripe.com
+- Docs: https://stripe.com/docs
