@@ -31,7 +31,7 @@ This is a curated list of developer products that I think are interesting, usefu
 - Site: https://stripe.com
 - Docs: https://stripe.com/docs
 
-# Auth0
+## Auth0
 - Site: https://auth0.com
 - Docs: https://auth0.com/docs/
 
